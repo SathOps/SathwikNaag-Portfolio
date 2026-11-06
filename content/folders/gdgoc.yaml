@@ -1,0 +1,100 @@
+name: Google Developer Groups on Campus
+kicker: College Club · GITAM Hyderabad
+role: Design Lead
+description: 'Playful, Google-coloured campaigns for the developer club: core-team reveals, hackathons, study jams, festive stories and certificates.'
+layout: google
+palette:
+  bg: '#ffffff'
+  ink: '#202124'
+  accent: '#4285f4'
+  accent2: '#ea4335'
+order: 5
+topLevel: true
+highlight: false
+parents: []
+cover: /work/gdgoc/cover.webp
+groups:
+- title: Core Team 2025–26
+  kind: carousel
+  note: ''
+  items:
+  - caption: Introducing our core team
+    span: normal
+    show: true
+    image: /work/gdgoc/g0-00.webp
+    preview: false
+  - caption: 'Design Lead: me'
+    span: normal
+    show: true
+    image: /work/gdgoc/g0-01.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gdgoc/g0-02.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gdgoc/g0-03.webp
+    preview: false
+- title: Events
+  kind: grid
+  note: ''
+  items:
+  - caption: TechSprint hackathon
+    span: tall
+    show: true
+    image: /work/gdgoc/g1-00.webp
+    preview: true
+  - caption: 'TechSprint: info poster'
+    span: normal
+    show: true
+    image: /work/gdgoc/g1-01.webp
+    preview: true
+  - caption: Project Premiere
+    span: normal
+    show: true
+    image: /work/gdgoc/g1-02.webp
+    preview: true
+  - caption: Onboarding Meet '25–'26
+    span: normal
+    show: true
+    image: /work/gdgoc/g1-03.webp
+    preview: false
+- title: Stories
+  kind: marquee
+  note: ''
+  items:
+  - caption: Dussehra
+    span: normal
+    show: true
+    image: /work/gdgoc/g2-00.webp
+  - caption: Christmas
+    span: normal
+    show: true
+    image: /work/gdgoc/g2-01.webp
+  - caption: Hiring designers
+    span: normal
+    show: true
+    image: /work/gdgoc/g2-02.webp
+  - caption: Advent calendar
+    span: normal
+    show: true
+    image: /work/gdgoc/g2-03.webp
+  - caption: Cloud Study Jam
+    span: normal
+    show: true
+    image: /work/gdgoc/g2-04.webp
+  - caption: Something is cooking
+    span: normal
+    show: true
+    image: /work/gdgoc/g2-05.webp
+- title: Certificate
+  kind: grid
+  note: ''
+  items:
+  - caption: Study Jam certificate template
+    span: wide
+    show: true
+    image: /work/gdgoc/g3-00.webp

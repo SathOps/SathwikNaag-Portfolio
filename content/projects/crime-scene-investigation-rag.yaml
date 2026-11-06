@@ -1,0 +1,37 @@
+title: Crime Scene Investigation RAG
+tagline: Source-grounded, multi-agent legal case research assistant.
+category: ai
+status: live
+featured: true
+order: 1
+role: Solo build
+period: '2026'
+summary: 'Ingests case records, retrieves evidence with hybrid search and routes each question to the right specialist workflow: timeline, witness contradictions, case facts or evidence assessment. Answers come back as validated, cited, structured findings with explicit limitations. It is built to support investigators, not to give legal advice.'
+highlights:
+- Coordinator-led, intent-routed multi-agent architecture
+- 'Hybrid retrieval: 55% semantic + 45% lexical/entity scoring, multi-query expansion, diversity caps'
+- Deterministic timeline and contradiction pipelines with provenance-verified quotes
+- One LLM service across Ollama, Gemini and OpenAI with fallback and offline mode
+- Pydantic response contracts, pytest suite and GitHub Actions CI
+metrics:
+- value: '4'
+  label: specialist agents
+- value: '3'
+  label: LLM providers
+stack:
+- Python
+- LangChain
+- ChromaDB
+- FAISS
+- Sentence-Transformers
+- Ollama
+- Gemini
+- OpenAI
+- Pydantic
+- Streamlit
+- pytest
+repoUrl: https://github.com/SathOps/Crime-Scene-Investigation-RAG
+embed: true
+accent: '#a78bfa'
+liveUrl: https://sathops-crime-scene-investigation-rag-app-odbwjb.streamlit.app/
+embedUrl: https://sathops-crime-scene-investigation-rag-app-odbwjb.streamlit.app/?embed=true&embed_options=dark_theme

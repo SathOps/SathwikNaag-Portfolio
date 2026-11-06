@@ -1,0 +1,30 @@
+title: Traffic Sign Recognition
+tagline: CNN that reads 43 classes of German traffic signs.
+category: ml
+status: shipped
+featured: false
+order: 6
+role: Solo build
+period: '2025'
+summary: 'An end-to-end computer-vision pipeline on GTSRB: 32×32 preprocessing, normalisation, a conv/max-pool CNN with dropout, Adam training and a 43-class confusion matrix for error analysis.'
+highlights:
+- Full pipeline from raw images to inference
+- Dropout-regularised CNN trained with Adam
+- 43-class confusion-matrix error analysis
+metrics:
+- value: 99.66%
+  label: test accuracy
+- value: '43'
+  label: classes
+stack:
+- Python
+- TensorFlow
+- Keras
+- OpenCV
+- NumPy
+- scikit-learn
+extraLinks:
+- label: Colab notebook
+  url: https://colab.research.google.com/drive/1R2WjQUS7r8YM8kEBvj28woUSxhPx4qkV?usp=sharing
+embed: false
+accent: '#ef4444'

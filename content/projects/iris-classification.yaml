@@ -1,0 +1,23 @@
+title: Iris Classification
+tagline: BITS Pilani AI/ML internship project.
+category: ml
+status: shipped
+featured: false
+order: 9
+role: Intern · BITS Pilani Hyderabad
+period: 7-week internship
+summary: A logistic-regression pipeline covering preprocessing, feature analysis, training and evaluation, plus a reusable Joblib inference workflow.
+highlights:
+- End-to-end scikit-learn pipeline
+- Serialized model for reuse
+stack:
+- Python
+- scikit-learn
+- Pandas
+- NumPy
+- Joblib
+extraLinks:
+- label: Colab notebook
+  url: https://colab.research.google.com/drive/12W6J9n4O66QQAja3bjH5O5gw7YkKvAMd?usp=sharing
+embed: false
+accent: '#8b5cf6'

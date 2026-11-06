@@ -1,0 +1,17 @@
+question: What's your tech stack?
+world: tech
+answer: 'AI: Python, LangChain, ChromaDB, Hugging Face, OpenAI, Gemini, Ollama, TensorFlow, scikit-learn, OpenCV, Pandas and NumPy. Backend: FastAPI, Node.js, Express, Streamlit, PostgreSQL, MySQL and MongoDB. Frontend: React, Next.js, Astro, TypeScript, Tailwind CSS and Framer Motion. Plus Java, C, SQL and R, with Git, GitHub, GitLab and Vercel for shipping.'
+keywords:
+- stack
+- tech stack
+- languages
+- frameworks
+- technologies
+- tools
+- python
+- react
+- skills
+featured: false
+linkLabel: See the stack
+linkUrl: '#stack'
+order: 21

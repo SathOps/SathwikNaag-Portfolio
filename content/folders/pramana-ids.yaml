@@ -1,0 +1,42 @@
+name: Pramana 2025 IDs
+kicker: POC · Executive Board · Mentor
+description: 120+ POC cards, 23 executive-board cards and mentor cards, all from one template.
+layout: lanyard
+palette:
+  bg: '#0e2418'
+  ink: '#f4ecd8'
+  accent: '#d9a845'
+  accent2: '#3fa66b'
+order: 1
+topLevel: false
+highlight: false
+parents:
+- id-cards
+cover: /work/pramana-ids/cover.webp
+groups:
+- title: Cards
+  kind: stack
+  note: ''
+  items:
+  - caption: 'POC of Design: me'
+    span: normal
+    show: true
+    image: /work/pramana-ids/g0-00.webp
+    preview: true
+  - caption: Executive board
+    span: normal
+    show: true
+    image: /work/pramana-ids/g0-01.webp
+    preview: false
+  - caption: Mentor
+    span: normal
+    show: true
+    image: /work/pramana-ids/g0-02.webp
+    preview: false
+  - caption: POC card back
+    span: normal
+    show: true
+    image: /work/pramana-ids/g0-03.webp
+    preview: true
+fullParents:
+- pramana

@@ -1,0 +1,35 @@
+title: Swecha.org Website Redesign
+tagline: Redesign and rebuild of the official Swecha website.
+category: frontend
+status: live
+featured: true
+team: true
+largePreview: true
+order: 2
+role: UI/UX lead & frontend · Swecha.ai internship
+period: May – Jun 2026
+summary: 'A ground-up overhaul of swecha.org''s presentation layer: static-first Astro with island hydration, an atomic component library in Storybook, offline PWA support and full English / Hindi / Telugu localisation, with a focus on accessibility, responsive layouts and visual hierarchy.'
+highlights:
+- '"Electric Cyan Tech Matrix" design tokens with dark and light themes'
+- Atomic-design component library documented in Storybook
+- i18n parity checks across en / hi / te in CI
+- PWA with service-worker caching
+metrics:
+- value: '3'
+  label: languages
+- value: PWA
+  label: offline-ready
+stack:
+- Astro 6
+- TypeScript
+- Tailwind CSS 4
+- daisyUI 5
+- Storybook
+- Vite PWA
+- i18next
+- GitLab CI
+- Figma
+liveUrl: https://beta-swecha-org.vercel.app/
+repoUrl: https://code.swecha.org/Sathwiknaag12
+embed: true
+accent: '#00d4ff'

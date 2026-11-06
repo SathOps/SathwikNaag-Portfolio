@@ -1,0 +1,53 @@
+name: GITAM University Official Sports Kit 26–27
+kicker: Official kit
+description: 'The university''s official jersey and track jacket: 3D mockups plus the flat print panels behind them.'
+layout: rack
+palette:
+  bg: '#0d3b33'
+  ink: '#f3e9d2'
+  accent: '#d6a94a'
+  accent2: '#e8dcb5'
+order: 1
+topLevel: false
+highlight: false
+parents:
+- merch
+- gitam-sports
+cover: /work/official-kit-26-27/cover.webp
+groups:
+- title: Jersey
+  kind: grid
+  note: ''
+  items:
+  - caption: 'Jersey: front & back mockup'
+    span: tall
+    show: true
+    image: /work/official-kit-26-27/g0-00.webp
+  - caption: 'Print panel: front'
+    span: normal
+    show: true
+    image: /work/official-kit-26-27/g0-01.webp
+  - caption: 'Print panel: back'
+    span: normal
+    show: true
+    image: /work/official-kit-26-27/g0-02.webp
+- title: Track jacket
+  kind: grid
+  note: ''
+  items:
+  - caption: 'Jacket: front & back mockup'
+    span: tall
+    show: true
+    image: /work/official-kit-26-27/g1-00.webp
+  - caption: Print panel
+    span: normal
+    show: true
+    image: /work/official-kit-26-27/g1-01.webp
+  - caption: Print panel
+    span: normal
+    show: true
+    image: /work/official-kit-26-27/g1-02.webp
+  - caption: Sleeve panels
+    span: normal
+    show: true
+    image: /work/official-kit-26-27/g1-03.webp

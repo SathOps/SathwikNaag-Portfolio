@@ -1,0 +1,52 @@
+name: ENIGMA
+kicker: College Club · Think. Train. Transform.
+role: Head of Graphic Design
+description: A vintage-newspaper identity built around an Enigma-machine badge. The launch announcement became a front page.
+layout: newspaper
+palette:
+  bg: '#e8dcc2'
+  ink: '#2a1c0e'
+  accent: '#8a5a2b'
+  accent2: '#b8862f'
+order: 8
+topLevel: true
+highlight: false
+parents: []
+cover: /work/enigma/cover.webp
+groups:
+- title: Front page
+  kind: grid
+  note: ''
+  items:
+  - caption: 'The Gitam Daily: launch poster'
+    span: tall
+    show: true
+    image: /work/enigma/g0-00.webp
+  - caption: Badge logo
+    span: normal
+    show: true
+    image: /work/enigma/g0-01.webp
+  - caption: Plaque logo
+    span: wide
+    show: true
+    image: /work/enigma/g0-02.webp
+  - caption: About us
+    span: normal
+    show: true
+    image: /work/enigma/g0-03.webp
+- title: Launch & registrations
+  kind: carousel
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/enigma/g1-00.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/enigma/g1-01.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/enigma/g1-02.webp

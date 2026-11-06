@@ -1,0 +1,5 @@
+name: Git
+group: tools
+icon: git
+level: 5
+order: 33

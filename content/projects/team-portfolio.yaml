@@ -1,0 +1,22 @@
+title: Team Portfolio
+tagline: A collaborative portfolio platform for a dev team.
+category: frontend
+status: live
+featured: false
+order: 8
+role: Design & frontend
+period: '2026'
+summary: 'A shared portfolio for a team: member profiles, projects, skills and achievements, with reusable components and a clear information architecture.'
+highlights:
+- Reusable, data-driven member and project components
+- Responsive, accessible layouts with Framer Motion
+stack:
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Vercel
+- Figma
+liveUrl: https://team-portfolio-rust-three.vercel.app/
+embed: true
+accent: '#60a5fa'

@@ -1,0 +1,171 @@
+name: Pramana 2025
+kicker: Flagship Fest · GITAM Hyderabad
+role: POC of Design · Design & Content Team
+period: Feb 2025
+description: 'The full visual identity for Pramana 2025, GITAM Hyderabad''s techno-cultural-wellness fest: key visuals, ticketing campaigns, a six-poster dance series, invites, event info and even the thank-you notes for my own team. The full folder also holds its ID cards, varsity jacket and screening poster.'
+layout: festival
+palette:
+  bg: '#0e2418'
+  ink: '#f4ecd8'
+  accent: '#d9a845'
+  accent2: '#3fa66b'
+order: 4
+topLevel: true
+highlight: true
+parents: []
+cover: /work/pramana/cover.webp
+groups:
+- title: Key visuals
+  kind: grid
+  note: ''
+  items:
+  - caption: 'Main fest poster: Feb 7, 8, 9'
+    span: tall
+    show: true
+    image: /work/pramana/g0-00.webp
+    preview: true
+  - caption: Early-bird passes
+    span: normal
+    show: true
+    image: /work/pramana/g0-01.webp
+    preview: false
+  - caption: Outsider passes
+    span: normal
+    show: true
+    image: /work/pramana/g0-02.webp
+    preview: false
+  - caption: Scrapbook recap collage
+    span: normal
+    show: true
+    image: /work/pramana/g0-03.webp
+    preview: false
+- title: Creatives
+  kind: grid
+  note: Event posters, the six-poster dance series and the schedule.
+  file: null
+  items:
+  - caption: 'HackOps: Capture The Flag'
+    span: normal
+    show: true
+    image: /work/pramana/g2-00.webp
+    preview: false
+  - caption: Cosplay competition
+    span: normal
+    show: true
+    image: /work/pramana/g2-01.webp
+    preview: false
+  - caption: Website launch
+    span: normal
+    show: true
+    image: /work/pramana/g2-02.webp
+    preview: true
+  - caption: Day-1 schedule
+    span: normal
+    show: true
+    image: /work/pramana/cr-day1-schedule.webp
+    preview: false
+  - caption: Dance events
+    span: normal
+    show: true
+    image: /work/pramana/cr-dance-1.webp
+    preview: false
+  - caption: Fusion dance competition
+    span: normal
+    show: true
+    image: /work/pramana/cr-dance-2.webp
+    preview: false
+  - caption: Classical dance competition
+    span: normal
+    show: true
+    image: /work/pramana/cr-dance-3.webp
+    preview: false
+  - caption: Western dance competition
+    span: normal
+    show: true
+    image: /work/pramana/cr-dance-4.webp
+    preview: false
+  - caption: Hip-hop dance battle
+    span: normal
+    show: true
+    image: /work/pramana/cr-dance-5.webp
+    preview: false
+  - caption: Bollywood dance workshop
+    span: normal
+    show: true
+    image: /work/pramana/cr-dance-6.webp
+    preview: false
+  - caption: 'Dance events: panoramic banner'
+    span: wide
+    show: true
+    image: /work/pramana/g1-00.webp
+    preview: false
+  - caption: Salaar screening poster
+    span: normal
+    show: true
+    preview: false
+    image: /work/movie-posters/g0-02.webp
+- title: On-ground & recap
+  kind: grid
+  note: ''
+  items:
+  - caption: Events recap collage
+    span: normal
+    show: true
+    image: /work/pramana/g3-00.webp
+    preview: true
+  - caption: Pre-Pramana food menu (motion)
+    span: normal
+    show: true
+    image: /work/pramana/g3-01.poster.webp
+    video: /work/pramana/g3-01.mp4
+    preview: false
+- title: Invites
+  kind: stack
+  note: ''
+  items:
+  - caption: Invite cover
+    span: normal
+    show: true
+    image: /work/pramana/g4-00.webp
+    preview: true
+  - caption: Invite letter
+    span: normal
+    show: true
+    image: /work/pramana/g4-01.webp
+    preview: false
+- title: For the team
+  kind: carousel
+  note: A guessing game and 12 personal thank-you carousels for my design team.
+  items:
+  - caption: 'Guess Karo: teammate edition'
+    span: normal
+    show: true
+    image: /work/pramana/g5-00.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/pramana/g5-01.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/pramana/g5-02.webp
+    preview: false
+  - caption: Personal thank-you notes
+    span: normal
+    show: true
+    image: /work/pramana/g5-03.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/pramana/g5-04.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/pramana/g5-05.webp
+    preview: false
+previewMerge: true
+previewStyle: line

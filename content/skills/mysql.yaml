@@ -1,0 +1,5 @@
+name: MySQL
+group: backend
+icon: mysql
+level: 4
+order: 31

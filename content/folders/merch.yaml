@@ -1,0 +1,17 @@
+name: Merch & Kits
+kicker: Apparel design
+role: Apparel & kit designer
+period: 2024 – 27
+description: Jerseys, varsity jackets and official university kits, from flat print artwork to mockups to the real thing.
+layout: rack
+palette:
+  bg: '#111111'
+  ink: '#f2f2f2'
+  accent: '#f2b134'
+  accent2: '#9a2a2a'
+order: 6
+topLevel: true
+highlight: false
+parents: []
+cover: /work/official-kit-26-27/g0-00.webp
+groups: []

@@ -1,0 +1,108 @@
+name: UI/UX Design
+kicker: Product & interface design · design + code
+role: UI/UX Designer
+description: 'How I design digital products: understand the people using them, map the flows, design and prototype in Figma, test, then build the interface myself. Every case below is real, shipped work.'
+layout: spiderverse
+palette:
+  bg: '#0d0e18'
+  ink: '#dadde3'
+  accent: '#6fe0ee'
+  accent2: '#a33a8d'
+order: 7
+topLevel: true
+highlight: true
+parents: []
+cover: /work/ui-ux/cover.webp
+callout: Seen some of these in the Tech World? It's the same work, seen from the other side. I designed these products in Figma first and then built them in code, on my own or with my team, so both UI/UX design and development went into each one. This issue tells the design story; the Tech World tells the engineering one.
+process:
+- title: Research
+  detail: User research, personas, competitive analysis and a heuristic evaluation of what exists today.
+- title: Define
+  detail: User flows, journey maps and information architecture, so every screen has one clear job.
+- title: Design
+  detail: Wireframes to high fidelity in Figma with Auto Layout, components and variants, grown into a design system.
+- title: Prototype & test
+  detail: Interactive prototypes, usability testing and accessibility checks (WCAG), then iterate.
+- title: Build
+  detail: 'I code the final UI myself: React, Next.js, Astro and Tailwind, with Framer Motion for interaction.'
+caseStudies:
+- title: Swecha Activity Tracker
+  role: UI/UX lead & frontend · Swecha.ai internship
+  period: May – Jun 2026
+  challenge: A production dashboard that interns and mentors use every day for stand-ups and progress tracking, where daily logging, verification and finding information all had friction.
+  design:
+  - Ran design evaluations of the existing flows to find the friction points in daily stand-up logging
+  - Reworked navigation and information architecture so the right content is easy to discover
+  - Simplified the verification workflows and analytics views for mentors
+  - Designed a glassmorphism-inspired, dual-theme design system of reusable components
+  - Planned multilingual, responsive layouts that work on mobile
+  build: Built the reusable UI components and the frontend myself in React, Astro and TypeScript with i18next, iterating with the developers and stakeholders.
+  tools:
+  - Figma
+  - React
+  - Astro
+  - TypeScript
+  - i18next
+  - DaisyUI
+  - shadcn/ui
+  liveUrl: https://activitytracker-five.vercel.app/
+  alsoInTech: true
+- title: Swecha.org Website Redesign
+  role: UI/UX lead & frontend · Swecha.ai internship
+  period: May – Jun 2026
+  challenge: Redesign Swecha's official website so it is accessible, responsive and engaging, while staying true to the brand.
+  design:
+  - Rebuilt the visual hierarchy so pages read and navigate clearly
+  - Accessibility-first, responsive layouts for every screen size
+  - Dark and light themes from one set of design tokens
+  - Simplified user journeys to make content easier to discover
+  build: 'Built with the team as a fast, static-first Astro site: I led the UI/UX and worked on the reusable component library, offline support and English / Hindi / Telugu localisation.'
+  tools:
+  - Figma
+  - Astro
+  - TypeScript
+  - Tailwind CSS
+  - Storybook
+  - i18next
+  liveUrl: https://beta-swecha-org.vercel.app/
+  alsoInTech: true
+- title: DigAlert
+  role: UI/UX design & full-stack development
+  period: '2026'
+  challenge: 'One civic platform for three very different users: citizens reporting hazards, utility agencies planning digs, and city admins resolving clashes.'
+  design:
+  - Role-based dashboards, so each group only sees what it needs
+  - Permit workflows, complaint tracking and notification interfaces
+  - Interactive map experiences and analytics dashboards
+  - Intuitive navigation and responsive layouts, glassmorphism dark/light system, WCAG AA
+  build: 'A group project: I led the UI/UX and built the interface in React, Tailwind CSS and Framer Motion, working with the team on the FastAPI + PostgreSQL backend, Recharts and Leaflet.'
+  tools:
+  - Figma
+  - React
+  - Tailwind CSS
+  - Framer Motion
+  - FastAPI
+  - PostgreSQL
+  - Leaflet
+  liveUrl: https://dig-alert.vercel.app/citizen
+  alsoInTech: true
+- title: Portfolio Platforms
+  role: UI/UX design & frontend
+  period: 2025 – 26
+  challenge: 'Tell a story with work: a personal portfolio and a collaborative team portfolio that are easy to explore and pleasant to use.'
+  design:
+  - Storytelling-led structure with intuitive navigation
+  - Interaction design and smooth animations that guide attention
+  - Structured information architecture and reusable UI components for the team site
+  - Accessibility-focused, responsive layouts for better discoverability
+  build: Coded both with React, TypeScript, Tailwind CSS and Framer Motion, deployed on Vercel and GitHub Pages.
+  tools:
+  - Figma
+  - React
+  - TypeScript
+  - Tailwind CSS
+  - Framer Motion
+  liveUrl: https://team-portfolio-rust-three.vercel.app/
+  alsoInTech: true
+groups: []
+heroShortcut: Check out my UI/UX design

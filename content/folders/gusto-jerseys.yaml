@@ -1,0 +1,46 @@
+name: GUSTO × GITAM Jerseys
+kicker: Football & basketball kits
+description: Four football colourways and a basketball set in the GUSTO red-wing pattern.
+layout: rack
+palette:
+  bg: '#1a0d0d'
+  ink: '#f6ece6'
+  accent: '#d4a24a'
+  accent2: '#8e1f1f'
+order: 3
+topLevel: false
+highlight: false
+parents:
+- merch
+cover: /work/gusto-jerseys/cover.webp
+groups:
+- title: Colourways
+  kind: grid
+  note: ''
+  items:
+  - caption: Gold trim + wing
+    span: normal
+    show: true
+    image: /work/gusto-jerseys/g0-00.webp
+  - caption: Black trim + wing
+    span: normal
+    show: true
+    image: /work/gusto-jerseys/g0-01.webp
+  - caption: Plain pattern
+    span: normal
+    show: true
+    image: /work/gusto-jerseys/g0-02.webp
+  - caption: 'Back: name & number'
+    span: normal
+    show: true
+    image: /work/gusto-jerseys/g0-03.webp
+  - caption: 'Basketball: front'
+    span: normal
+    show: true
+    image: /work/gusto-jerseys/g0-04.webp
+  - caption: 'Basketball: back'
+    span: normal
+    show: true
+    image: /work/gusto-jerseys/g0-05.webp
+fullParents:
+- gitam-sports

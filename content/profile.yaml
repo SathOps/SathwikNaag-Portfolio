@@ -1,0 +1,118 @@
+name: Sathwik Naag Sankuru
+shortName: Sathwik
+tagline: 'I design the things people see
+
+  and build the things that make them work.'
+bio: Final-year CSE (Data Science) at GITAM Hyderabad. Graphic designer with 400+ creatives across 9+ clubs and a flagship fest, and an engineer building agentic AI, RAG systems and full-stack products.
+designTagline: I design the things people see.
+techTagline: I build the things that make them work.
+designBio: 'Graphic & brand designer with 400+ creatives for 9+ campus clubs, a flagship fest and GITAM Sports: posters, identities, ID cards, merch and wedding suites. Head of Graphic Design for GDGoC, COGAAN & ENIGMA, and now Campus Student Leader for Operations, Design & Media.'
+techBio: Final-year B.Tech CSE (Data Science) at GITAM, building agentic AI, RAG pipelines and deep-learning models in Python, plus full-stack products with React and FastAPI. Interned at Swecha.ai (AI & full-stack) and BITS Pilani (AI/ML).
+designIntro: Posters, identities, kits, invites and campaigns, made for clubs, a fest, a university sports body and a couple of weddings. Every folder below has its own look.
+techIntro: Final-year B.Tech CSE (Data Science) student at GITAM Hyderabad. I build agentic AI systems, RAG pipelines and deep-learning models in Python, and ship full-stack products with React, Astro and FastAPI. 200+ LeetCode problems solved, with internships at Swecha.ai (AI & full-stack) and BITS Pilani (AI/ML).
+designRoles:
+- Graphic Designer
+- Brand & Identity
+- UI / UX Designer
+- Merch & Kit Designer
+- Design Lead
+techRoles:
+- AI / ML Engineer
+- Full-Stack Developer
+- RAG & Agentic AI
+- Product-minded Engineer
+location: Hyderabad, India
+education: B.Tech CSE (Data Science) · GITAM Hyderabad · 2023–27
+email: sathwiknaag12@gmail.com
+whatsapp: '918374043278'
+phoneDisplay: +91 83740 43278
+available: Open to work & internships
+socials:
+- label: Instagram
+  url: https://www.instagram.com/sunny10dj/
+  icon: instagram
+- label: LinkedIn
+  url: https://www.linkedin.com/in/sathwik-naag-sankuru-820756386
+  icon: linkedin
+- label: GitHub
+  url: https://github.com/SathOps
+  icon: github
+- label: LeetCode
+  url: https://leetcode.com/u/GH2023006255/
+  icon: leetcode
+- label: GitLab (Swecha)
+  url: https://code.swecha.org/Sathwiknaag12
+  icon: gitlab
+- label: Email
+  url: https://mail.google.com/mail/?view=cm&fs=1&to=sathwiknaag12%40gmail.com&su=Hello%20Sathwik
+  icon: mail
+photo: /me/photo.webp
+avatarSketch: /avatar/sketch/open.webp
+avatarSketchBlink: /avatar/sketch/blink.webp
+avatar3dColor: /avatar/3d/color.webp
+avatar3dBlink: /avatar/3d/color_blink.webp
+avatar3dDepth: /avatar/3d/depth.png
+interests:
+- label: Design
+  icon: pen
+  side: design
+- label: Branding
+  icon: palette
+  side: design
+- label: Merch
+  icon: shirt
+  side: design
+- label: Movies
+  icon: film
+  side: design
+- label: Music
+  icon: music
+  side: design
+- label: Events
+  icon: calendar
+  side: design
+- label: Organizing
+  icon: clipboard
+  side: design
+- label: AI
+  icon: brain
+  side: tech
+- label: Code
+  icon: code
+  side: tech
+- label: Esports
+  icon: gamepad
+  side: tech
+- label: Cricket
+  icon: cricket
+  side: tech
+- label: Leadership
+  icon: crown
+  side: tech
+- label: Teamwork
+  icon: users
+  side: tech
+- label: Socializing
+  icon: chat
+  side: tech
+githubUser: SathOps
+githubRepos:
+- name: Crime-Scene-Investigation-RAG
+  url: https://github.com/SathOps/Crime-Scene-Investigation-RAG
+  description: Multi-agent legal case research assistant that answers with cited, source-grounded findings.
+  language: Python
+- name: beta-swecha-org
+  url: https://github.com/PranavReddy2703/beta-swecha-org
+  description: The swecha.org frontend overhaul, a fast, localised, offline-ready static site built on Astro.
+  language: Astro
+- name: DigAlert
+  url: https://github.com/PranavReddy2703/DigAlert
+  description: Smart permit intelligence that catches clashing road excavations and proposes shared co-dig windows.
+  language: React · FastAPI
+- name: Hybrid-Transformer-Project
+  url: https://github.com/SathOps/Hybrid-Transformer-Project
+  description: IoT intrusion detection that fuses a CNN-Transformer, XGBoost and an MLP on the CICIoT2023 dataset.
+  language: Python
+leetcodeUser: GH2023006255
+leetcodeSolved: 200+
+designsMade: 400+

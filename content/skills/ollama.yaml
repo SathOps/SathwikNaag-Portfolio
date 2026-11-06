@@ -1,0 +1,5 @@
+name: Ollama
+group: ai
+icon: ollama
+level: 4
+order: 13

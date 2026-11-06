@@ -1,0 +1,15 @@
+role: B.Tech, Computer Science (Data Science)
+org: GITAM University, Hyderabad
+period: 2023 – 2027
+side: both
+kind: education
+points:
+- CGPA 7.72
+order: 8
+tags:
+- Data Science
+- DSA
+- DBMS
+metrics:
+- value: '7.72'
+  label: CGPA

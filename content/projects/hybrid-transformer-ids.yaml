@@ -1,0 +1,35 @@
+title: Hybrid Deep Transformer IDS
+tagline: Optimised CNN-Transformer intrusion detection for IoT networks.
+category: ml
+status: wip
+featured: false
+badge: Final Year Project
+order: 5
+role: Final-year research project
+period: 2026 – 27
+summary: A reproducible baseline hybrid intrusion-detection system on CICIoT2023, used as the starting point for an enhanced architecture. It includes streaming preprocessing, BPSO feature selection, CNN-Transformer + XGBoost + MLP models and validation-driven probability fusion.
+highlights:
+- Streaming ingestion, cleaning, log1p transform and normalisation for large traffic data
+- Binary PSO cut features from 46 to 27 (−41.3%)
+- Probability fusion of CNN-Transformer, XGBoost and MLP
+- Ablations and an enhanced architecture in progress
+metrics:
+- value: 77.83%
+  label: baseline accuracy
+- value: '0.7985'
+  label: weighted F1
+- value: −41%
+  label: features
+stack:
+- Python
+- TensorFlow / Keras
+- Transformers
+- CNN
+- XGBoost
+- scikit-learn
+- BPSO
+- Explainable AI
+repoUrl: https://github.com/SathOps/Hybrid-Transformer-Project
+repoNote: This project is still under development. The code in this repository is an early testing version, not the final implementation.
+embed: false
+accent: '#f59e0b'

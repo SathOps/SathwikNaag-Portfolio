@@ -1,0 +1,37 @@
+name: '#VaishDeepKiShaadi'
+kicker: Full wedding suite
+description: A 4K animated invite and an illustrated event timeline, from haldi to the wedding.
+layout: wedding
+palette:
+  bg: '#fff3d6'
+  ink: '#7a2410'
+  accent: '#f0a020'
+  accent2: '#e0443a'
+order: 2
+topLevel: false
+highlight: false
+parents:
+- weddings
+cover: /work/wedding-suite-02/cover.webp
+groups:
+- title: Motion
+  kind: grid
+  note: ''
+  items:
+  - caption: Video invite
+    span: tall
+    show: true
+    image: /work/wedding-suite-02/g0-00.poster.webp
+    video: /work/wedding-suite-02/g0-00.mp4
+- title: Stationery
+  kind: grid
+  note: ''
+  items:
+  - caption: Event timeline
+    span: normal
+    show: true
+    image: /work/wedding-suite-02/g1-00.webp
+  - caption: Haldi invite
+    span: normal
+    show: true
+    image: /work/wedding-suite-02/g1-01.webp

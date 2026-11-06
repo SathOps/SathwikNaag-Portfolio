@@ -1,0 +1,17 @@
+name: ID Cards
+kicker: Lanyard wall
+role: Identity designer
+period: 2024 – 25
+description: ~170 personalised ID cards across two events. Personal emails and roll numbers are blurred.
+layout: lanyard
+palette:
+  bg: '#14161a'
+  ink: '#f1efe9'
+  accent: '#d9a845'
+  accent2: '#1b8aa3'
+order: 9
+topLevel: true
+highlight: false
+parents: []
+cover: /work/gmun-ids/g0-mine.webp
+groups: []

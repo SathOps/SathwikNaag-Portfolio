@@ -1,0 +1,41 @@
+title: Swecha Activity Tracker Redesign
+tagline: UI/UX redesign of the production dashboard for internship and stand-up tracking.
+category: frontend
+status: live
+featured: true
+order: 4
+role: UI/UX lead & frontend · Swecha.ai internship
+period: May – Jun 2026
+team: false
+summary: Redesigned Swecha's production Activity Tracker, the dashboard interns and mentors use every day for stand-ups and progress tracking. I reworked navigation and information architecture, simplified verification workflows and analytics, and rebuilt the UI as reusable, glassmorphism-inspired components with dual themes and multilingual support.
+highlights:
+- Reworked navigation and information architecture to cut friction in daily stand-up logging
+- Simplified verification workflows and analytics views for mentors
+- Glassmorphism-inspired dual-theme design system with reusable, scalable components
+- Multilingual accessibility with i18next and responsive layouts for mobile
+- Iterated through design evaluations with developers and stakeholders
+metrics:
+- value: '2'
+  label: themes
+- value: '3'
+  label: languages
+- value: Prod
+  label: in daily use
+stack:
+- Figma
+- React
+- Astro
+- TypeScript
+- Vite
+- CSS
+- i18next
+- DaisyUI
+- shadcn/ui
+- Git
+- Vercel
+liveUrl: https://activitytracker-five.vercel.app/
+repoUrl: https://code.swecha.org/Sathwiknaag12
+extraLinks: []
+embed: true
+preview: null
+accent: '#38bdf8'

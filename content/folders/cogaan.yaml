@@ -1,0 +1,163 @@
+name: COGAAN
+kicker: College Club · Coding · Gaming · Animation
+role: Design Lead
+description: 'A black-and-white comic identity for a coding, gaming and animation club: recruitment, events, the executive board and a sticker pack. The full issue also holds the COGAAN varsity jacket.'
+layout: comic
+palette:
+  bg: '#0b0b0b'
+  ink: '#f5f3ee'
+  accent: '#ffffff'
+  accent2: '#ff3b3b'
+order: 1
+topLevel: true
+highlight: false
+parents: []
+cover: /work/cogaan/cover.webp
+groups:
+- title: Key visuals
+  kind: grid
+  note: ''
+  items:
+  - caption: What's COGAAN? (comic strip)
+    span: tall
+    show: true
+    image: /work/cogaan/g0-00.webp
+    preview: true
+  - caption: We are recruiting!
+    span: normal
+    show: true
+    image: /work/cogaan/g0-01.webp
+    preview: true
+  - caption: Join us
+    span: normal
+    show: true
+    image: /work/cogaan/g0-02.webp
+    preview: true
+  - caption: Prompt engineering workshop
+    span: normal
+    show: true
+    image: /work/cogaan/g0-03.webp
+    preview: false
+  - caption: Engineers Day
+    span: normal
+    show: true
+    image: /work/cogaan/g0-04.webp
+    preview: true
+- title: Executive Board 2025
+  kind: carousel
+  note: ''
+  items:
+  - caption: 'Executive board: cover'
+    span: normal
+    show: true
+    image: /work/cogaan/g1-00.webp
+    preview: false
+  - caption: 'Design Lead: me'
+    span: normal
+    show: true
+    image: /work/cogaan/g1-01.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g1-02.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g1-03.webp
+    preview: false
+- title: Sticker pack
+  kind: marquee
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-00.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-01.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-02.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-03.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-04.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-05.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-06.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-07.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-08.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-09.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-10.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-11.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-12.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-13.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-14.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-15.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-16.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/cogaan/g2-17.webp
+    preview: true

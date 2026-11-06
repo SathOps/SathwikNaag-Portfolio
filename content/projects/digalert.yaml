@@ -1,0 +1,42 @@
+title: DigAlert
+tagline: Smart permit intelligence that stops cities from digging the same road twice.
+category: fullstack
+status: live
+featured: true
+team: true
+order: 3
+role: Product, UI/UX & full-stack
+period: '2026'
+summary: 'Hyderabad''s roads get dug up again and again because water, power, gas and fibre agencies plan their excavations separately. DigAlert checks every new permit for clashes within 150 m and overlapping dates, then proposes a shared co-dig window. It serves three roles: citizens report hazards, utility agencies get clash alerts, and GHMC admins resolve clashes and track the savings.'
+highlights:
+- Haversine clash engine (150 m radius + same-segment + date overlap) that runs inside the permit request
+- Co-dig recommendations with estimated ₹ savings
+- Role-based dashboards for citizens, utilities and admins with JWT auth
+- Leaflet map of permits, complaints and clashes; Recharts analytics; CSV export
+- Glassmorphism dark/light design system, WCAG AA
+metrics:
+- value: '3'
+  label: stakeholder roles
+- value: 150 m
+  label: clash radius
+- value: '6'
+  label: API domains
+stack:
+- React 18
+- Vite
+- Tailwind CSS
+- Framer Motion
+- TanStack Query
+- Recharts
+- Leaflet
+- FastAPI
+- SQLAlchemy 2
+- PostgreSQL
+- JWT
+liveUrl: https://dig-alert.vercel.app/citizen
+repoUrl: https://github.com/PranavReddy2703/DigAlert
+extraLinks:
+- label: Swecha GitLab
+  url: https://code.swecha.org/Sathwiknaag12/digalert
+embed: true
+accent: '#22d3ee'

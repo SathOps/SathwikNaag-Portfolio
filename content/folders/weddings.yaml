@@ -1,0 +1,17 @@
+name: Weddings
+kicker: Freelance · Wedding stationery
+role: Invitation & signage designer
+period: 2024 – 25
+description: 'Complete wedding suites: animated video invites, ceremony invites, timelines and on-venue signage.'
+layout: wedding
+palette:
+  bg: '#fbf3e4'
+  ink: '#5a1a1a'
+  accent: '#c9a24a'
+  accent2: '#d0345a'
+order: 3
+topLevel: true
+highlight: true
+parents: []
+cover: /work/wedding-suite-01/g1-00.webp
+groups: []

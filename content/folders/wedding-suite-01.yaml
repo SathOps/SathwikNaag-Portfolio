@@ -1,0 +1,58 @@
+name: '#RonSaidOops'
+kicker: Full wedding suite
+description: Wedding, haldi and pre-wedding invites, an animated video invite and two venue boards.
+layout: wedding
+palette:
+  bg: '#f7ecd9'
+  ink: '#5a1a1a'
+  accent: '#b0323a'
+  accent2: '#c9a24a'
+order: 1
+topLevel: false
+highlight: false
+parents:
+- weddings
+cover: /work/wedding-suite-01/cover.webp
+groups:
+- title: Motion
+  kind: grid
+  note: ''
+  items:
+  - caption: Video invite
+    span: tall
+    show: true
+    image: /work/wedding-suite-01/g0-00.poster.webp
+    video: /work/wedding-suite-01/g0-00.mp4
+  - caption: Animated wedding invite
+    span: tall
+    show: true
+    image: /work/wedding-suite-01/g0-01.poster.webp
+    video: /work/wedding-suite-01/g0-01.mp4
+- title: Stationery
+  kind: grid
+  note: ''
+  items:
+  - caption: Wedding invite
+    span: normal
+    show: true
+    image: /work/wedding-suite-01/g1-00.webp
+  - caption: Haldi invite
+    span: normal
+    show: true
+    image: /work/wedding-suite-01/g1-01.webp
+  - caption: Nischaya Tambulam invite
+    span: normal
+    show: true
+    image: /work/wedding-suite-01/g1-02.webp
+- title: Venue signage
+  kind: grid
+  note: ''
+  items:
+  - caption: Entrance board
+    span: normal
+    show: true
+    image: /work/wedding-suite-01/g2-00.webp
+  - caption: Haldi board
+    span: normal
+    show: true
+    image: /work/wedding-suite-01/g2-01.webp

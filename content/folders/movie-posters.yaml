@@ -1,0 +1,33 @@
+name: Movie Posters
+kicker: Illustration & screenings
+role: Illustrator
+period: 2024 – 25
+description: Digital paintings and screening posters for campus film nights.
+layout: cinema
+palette:
+  bg: '#07070a'
+  ink: '#f1ece4'
+  accent: '#e0262b'
+  accent2: '#f2a516'
+order: 10
+topLevel: true
+highlight: false
+parents: []
+cover: /work/movie-posters/cover.webp
+groups:
+- title: Now showing
+  kind: cinema
+  note: Hover a ticket to change the screen.
+  items:
+  - caption: 'The Batman: fan art'
+    span: tall
+    show: true
+    image: /work/movie-posters/g0-00.webp
+  - caption: 'Oppenheimer screening: GMUN'
+    span: normal
+    show: true
+    image: /work/movie-posters/g0-01.webp
+  - caption: 'Salaar screening: Pramana'
+    span: normal
+    show: true
+    image: /work/movie-posters/g0-02.webp

@@ -1,0 +1,415 @@
+name: GITAM Sports
+kicker: Campus Student Leader · 2026–27
+role: 'CSL: Operations, Design & Media'
+period: 2026 – 2027
+description: 'Leading design, media and operations for GITAM Sports: campaigns, brochures, newsletters, kits, and the rulebook every club follows.'
+layout: sports
+palette:
+  bg: '#0a3b32'
+  ink: '#f3e9d2'
+  accent: '#d6a94a'
+  accent2: '#c7372f'
+order: 2
+topLevel: true
+highlight: true
+parents: []
+cover: /work/gitam-sports/cover.webp
+groups:
+- title: Headliners
+  kind: grid
+  note: ''
+  items:
+  - caption: Sports Selection Trials 2026–27
+    span: tall
+    show: true
+    image: /work/gitam-sports/g0-00.webp
+  - caption: 'ACE Awards: motion'
+    span: wide
+    show: true
+    image: /work/gitam-sports/g0-01.poster.webp
+    video: /work/gitam-sports/g0-01.mp4
+  - caption: University team selection dates
+    span: normal
+    show: true
+    image: /work/gitam-sports/g0-02.webp
+    preview: false
+  - caption: The future of GITAM Sports
+    span: normal
+    show: true
+    image: /work/gitam-sports/g10-00.webp
+    preview: false
+  - caption: Student Induction Program 2026
+    span: normal
+    show: true
+    preview: true
+    previewOnly: true
+    image: /work/gitam-sports/g3-00.webp
+- title: 'Varsity League: National Sports Day'
+  kind: carousel
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g1-00.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g1-01.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g1-02.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g1-03.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g1-04.webp
+- title: Varsity League stories
+  kind: marquee
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g2-00.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g2-01.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g2-02.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g2-03.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g2-04.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g2-05.webp
+- title: Student Induction Program 2026
+  kind: carousel
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g3-00.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g3-01.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g3-02.webp
+    preview: false
+  - caption: Plank challenge winners
+    span: normal
+    show: true
+    image: /work/gitam-sports/g3-03.webp
+    preview: false
+  - caption: Pushup challenge winners
+    span: normal
+    show: true
+    image: /work/gitam-sports/g3-04.webp
+    preview: false
+  - caption: SIP deck (107 slides)
+    span: wide
+    show: true
+    image: /work/gitam-sports/g3-05.webp
+    preview: false
+- title: Sports Summer Camp
+  kind: carousel
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g4-00.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g4-01.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g4-02.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g4-03.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g4-04.webp
+    preview: false
+  - caption: Presentation cover
+    span: wide
+    show: true
+    image: /work/gitam-sports/g4-05.webp
+    preview: false
+- title: Campus moments
+  kind: grid
+  note: ''
+  items:
+  - caption: Pickleball courts inauguration
+    span: normal
+    show: true
+    image: /work/gitam-sports/g5-00.webp
+    preview: false
+  - caption: Recreational facilities opening
+    span: normal
+    show: true
+    image: /work/gitam-sports/g5-01.webp
+    preview: false
+  - caption: International Yoga Day
+    span: normal
+    show: true
+    image: /work/gitam-sports/g5-02.webp
+    preview: true
+- title: 'Sponsorship brochure: black edition'
+  kind: flipbook
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-00.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-01.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-02.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-03.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-04.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-05.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-06.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-07.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-08.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-09.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-10.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g6-11.webp
+    preview: false
+- title: 'Sponsorship brochure: white edition'
+  kind: flipbook
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g7-00.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g7-01.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g7-02.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g7-03.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g7-04.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g7-05.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g7-06.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g7-07.webp
+    preview: false
+- title: 'Spandan: monthly newsletter'
+  kind: grid
+  note: ''
+  items:
+  - caption: July edition
+    span: normal
+    show: true
+    image: /work/gitam-sports/g8-00.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g8-01.webp
+    preview: false
+  - caption: August edition
+    span: normal
+    show: true
+    image: /work/gitam-sports/g8-02.webp
+    preview: false
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g8-03.webp
+    preview: false
+- title: 'Tri-Campus jersey: drafts → final'
+  kind: compare
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-00.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-01.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-02.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-03.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-04.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-05.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-06.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-07.webp
+  - caption: Final mockup
+    span: normal
+    show: true
+    image: /work/gitam-sports/g9-08.webp
+- title: Partners & esports
+  kind: grid
+  note: ''
+  items:
+  - caption: Media partners
+    span: normal
+    show: true
+    image: /work/gitam-sports/g11-00.webp
+  - caption: 'Media partners: alt'
+    span: normal
+    show: true
+    image: /work/gitam-sports/g11-01.webp
+  - caption: Free Fire community showdown
+    span: normal
+    show: true
+    image: /work/gitam-sports/g11-02.webp
+- title: Leadership & strategy
+  kind: carousel
+  note: Club & SIG guidelines and the finance/documentation action plan I authored.
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-00.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-01.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-02.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-03.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-04.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-05.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-06.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-07.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gitam-sports/g12-08.webp
+previewGroups: 3
+childrenAfter: 1

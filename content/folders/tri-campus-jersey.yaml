@@ -1,0 +1,30 @@
+name: Tri-Campus Jersey
+kicker: GITAM Sports · Hyderabad
+description: 'Black-and-amber tri-campus jersey: Run | Play | Inspire.'
+layout: rack
+palette:
+  bg: '#141414'
+  ink: '#f5f5f5'
+  accent: '#f2a516'
+  accent2: '#ffffff'
+order: 2
+topLevel: false
+highlight: false
+parents:
+- merch
+cover: /work/tri-campus-jersey/cover.webp
+groups:
+- title: Kit
+  kind: grid
+  note: ''
+  items:
+  - caption: Front
+    span: normal
+    show: true
+    image: /work/tri-campus-jersey/g0-00.webp
+  - caption: 'Back: personalised'
+    span: normal
+    show: true
+    image: /work/tri-campus-jersey/g0-01.webp
+fullParents:
+- gitam-sports

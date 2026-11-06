@@ -1,0 +1,38 @@
+name: COGAAN Varsity Jacket
+kicker: Design → print → in hand
+description: 'Three steps, one jacket: the flat design mockup, the print-ready artwork, then the real jacket in hand.'
+layout: rack
+palette:
+  bg: '#0b0b0b'
+  ink: '#f5f3ee'
+  accent: '#ffffff'
+  accent2: '#9a9a9a'
+order: 5
+topLevel: false
+highlight: false
+parents:
+- merch
+cover: /work/cogaan-varsity/cover.webp
+groups:
+- title: Design → print → in hand
+  kind: process
+  note: Hover a step to follow the artwork from screen to fabric.
+  items:
+  - caption: 'Design: flat mockup, front & back'
+    span: normal
+    show: true
+    image: /work/cogaan-varsity/g0-00.webp
+  - caption: 'Print file: back artwork'
+    span: normal
+    show: true
+    image: /work/cogaan-varsity/g0-01.webp
+  - caption: 'In hand: back'
+    span: normal
+    show: true
+    image: /work/cogaan-varsity/g0-02.webp
+  - caption: 'In hand: front'
+    span: normal
+    show: true
+    image: /work/cogaan-varsity/g0-03.webp
+fullParents:
+- cogaan

@@ -1,0 +1,67 @@
+name: GMUN
+kicker: College Club · GITAM Model United Nations
+role: Designer
+period: 2024 – 25
+description: A clean teal system for volunteer drives, delegate communication, ID cards and the Oppenheimer screening poster.
+layout: masonry
+palette:
+  bg: '#e7f2f4'
+  ink: '#0f3d47'
+  accent: '#1b8aa3'
+  accent2: '#0f3d47'
+order: 11
+topLevel: true
+highlight: false
+parents: []
+cover: /work/gmun/cover.webp
+groups:
+- title: Creatives
+  kind: grid
+  note: ''
+  items:
+  - caption: Oppenheimer screening poster
+    span: tall
+    show: true
+    preview: true
+    image: /work/movie-posters/g0-01.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun/g0-00.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun/g0-01.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun/g0-02.webp
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun/g0-03.webp
+- title: Delegate & team ID cards
+  kind: stack
+  showIn: preview
+  note: Hover to fan them out.
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun-ids/g0-00.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun-ids/g0-01.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun-ids/g0-02.webp
+    preview: true
+  - caption: 'Design Member: me'
+    span: normal
+    show: true
+    image: /work/gmun-ids/g0-mine.webp
+    preview: true

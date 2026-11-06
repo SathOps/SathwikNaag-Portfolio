@@ -1,0 +1,22 @@
+question: What do you mainly specialise in?
+world: tech
+answer: AI, and agentic AI in particular. I build multi-agent systems and RAG pipelines that retrieve the right evidence before they answer, plus deep-learning models in Python. My Crime Scene Investigation RAG routes every question to one of four specialist agents and works across three LLM providers, and at Swecha.ai I built a document-grounded RAG chatbot.
+keywords:
+- domain
+- specialize
+- specialise
+- focus
+- expertise
+- area
+- field
+- agentic
+- ai
+- ml
+- machine learning
+- what do you do
+- good at
+- skills
+featured: true
+linkLabel: See the projects
+linkUrl: '#projects'
+order: 1

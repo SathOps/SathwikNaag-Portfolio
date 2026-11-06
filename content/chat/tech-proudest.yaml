@@ -1,0 +1,17 @@
+question: Which project are you proudest of?
+world: tech
+answer: 'The Crime Scene Investigation RAG. It''s a solo build and it''s live: it ingests case records, retrieves evidence with hybrid search (55% semantic, 45% lexical and entity scoring), routes each question to the right specialist workflow and answers with validated, cited findings plus clear limitations. Close second: my final-year Hybrid Deep Transformer IDS, which is still in progress.'
+keywords:
+- proud
+- proudest
+- best project
+- favourite project
+- favorite project
+- flagship
+- main project
+- rag project
+- crime scene
+featured: true
+linkLabel: See it in Projects
+linkUrl: '#projects'
+order: 4

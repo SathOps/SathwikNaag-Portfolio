@@ -1,0 +1,42 @@
+name: GMUN IDs
+kicker: Secretariat cards
+description: Deep-teal secretariat IDs.
+layout: lanyard
+palette:
+  bg: '#0f3d47'
+  ink: '#eaf6f8'
+  accent: '#5fc3d6'
+  accent2: '#ffffff'
+order: 2
+topLevel: false
+highlight: false
+parents:
+- id-cards
+cover: /work/gmun-ids/g0-mine.webp
+groups:
+- title: Cards
+  kind: stack
+  note: ''
+  items:
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun-ids/g0-00.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun-ids/g0-01.webp
+    preview: true
+  - caption: ''
+    span: normal
+    show: true
+    image: /work/gmun-ids/g0-02.webp
+    preview: true
+  - caption: 'Design Member: me'
+    span: normal
+    show: true
+    image: /work/gmun-ids/g0-mine.webp
+    preview: true
+fullParents:
+- gmun

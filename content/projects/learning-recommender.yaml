@@ -1,0 +1,23 @@
+title: Online Learning Recommendation System
+tagline: 'Group project: hybrid course recommendations from KNN, TF-IDF and SVD.'
+category: ml
+status: shipped
+featured: false
+order: 7
+role: Group project
+period: '2025'
+summary: 'A group project: a hybrid recommender that blends collaborative filtering (KNN, SVD) with content similarity (TF-IDF) over ratings, clicks and learning history, evaluated with MAE, RMSE and F1.'
+highlights:
+- Content + collaborative hybrid ranking
+- Feature engineering on interaction logs
+- MAE / RMSE / F1 evaluation
+stack:
+- Python
+- Pandas
+- scikit-learn
+- Surprise / SVD
+- MySQL
+repoUrl: https://github.com/Yasesh/Content-Based-Filtering
+embed: false
+accent: '#10b981'
+team: true

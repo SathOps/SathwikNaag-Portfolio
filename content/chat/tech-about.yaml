@@ -1,0 +1,16 @@
+question: Tell me about yourself
+world: tech
+answer: I'm Sathwik, a final-year B.Tech CSE (Data Science) student at GITAM Hyderabad. I build agentic AI systems, RAG pipelines and deep-learning models in Python, and ship full-stack products with React, Astro and FastAPI. I've interned at Swecha.ai (AI & full-stack) and BITS Pilani (AI/ML), solved 200+ LeetCode problems, and I also design, so I care how things look as much as how they work.
+keywords:
+- about yourself
+- who are you
+- introduce
+- introduction
+- yourself
+- about you
+- background
+- bio
+featured: false
+linkLabel: ''
+linkUrl: ''
+order: 20

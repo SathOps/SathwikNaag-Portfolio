@@ -1,0 +1,17 @@
+role: AI/ML Intern
+org: BITS Pilani · Hyderabad Campus
+period: 7-week internship
+side: tech
+kind: work
+points:
+- Built a logistic-regression classification pipeline in scikit-learn.
+- Handled preprocessing, feature analysis, training and evaluation; serialised the model with Joblib.
+order: 3
+tags:
+- Python
+- scikit-learn
+- Pandas
+- Joblib
+metrics:
+- value: 7 wk
+  label: internship

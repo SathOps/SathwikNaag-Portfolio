@@ -1,0 +1,30 @@
+name: Pramana Varsity Jacket
+kicker: Executive board jacket
+description: Cream-and-charcoal varsity jacket for the Pramana 2025 executive board.
+layout: rack
+palette:
+  bg: '#e9e6da'
+  ink: '#2b2b2b'
+  accent: '#3c8c4a'
+  accent2: '#555555'
+order: 4
+topLevel: false
+highlight: false
+parents:
+- merch
+cover: /work/pramana-varsity/cover.webp
+groups:
+- title: Jacket
+  kind: grid
+  note: ''
+  items:
+  - caption: Front
+    span: normal
+    show: true
+    image: /work/pramana-varsity/g0-00.webp
+  - caption: Back
+    span: normal
+    show: true
+    image: /work/pramana-varsity/g0-01.webp
+fullParents:
+- pramana

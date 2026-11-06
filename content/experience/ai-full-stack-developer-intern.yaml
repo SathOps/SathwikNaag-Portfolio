@@ -1,0 +1,24 @@
+role: AI & Full-Stack Developer Intern
+org: Swecha.ai
+period: May – Jun 2026
+side: tech
+kind: work
+points:
+- Built a document-grounded RAG chatbot covering processing, retrieval, context injection and generation.
+- 'Led the UI/UX redesign of the official Activity Tracker: navigation, IA and workflow efficiency.'
+- Redesigned swecha.org for accessibility, responsiveness and visual hierarchy.
+- Worked in Agile with GitFlow on GitLab alongside developers and stakeholders.
+order: 2
+link: https://code.swecha.org/Sathwiknaag12
+tags:
+- RAG
+- LLMs
+- React
+- Astro
+- UI/UX
+- GitLab
+metrics:
+- value: '2'
+  label: production platforms redesigned
+- value: '1'
+  label: RAG chatbot shipped
