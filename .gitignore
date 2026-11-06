@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+# raw design files you drop in for `npm run add-brand`
+inbox/
+.DS_Store
+
+# downloaded by scripts/make-avatar-3d.py
+scripts/.models/
+__pycache__/
