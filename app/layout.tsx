@@ -11,11 +11,18 @@ import SmoothScroll from '@/components/ui/SmoothScroll';
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
-  title: { default: 'Sathwik Naag: Design × Tech', template: '%s · Sathwik Naag' },
+  title: { default: 'Sathwik Naag: Two Worlds, One Mind', template: '%s · Sathwik Naag' },
   description:
     'Two worlds, one person. Graphic & brand design for clubs, fests, sports and weddings, plus agentic AI, RAG and full-stack engineering.',
-  openGraph: { type: 'website', title: 'Sathwik Naag: Design × Tech', images: ['/me/photo.webp'] },
-  icons: { icon: '/favicon.svg' },
+  openGraph: { type: 'website', title: 'Sathwik Naag: Two Worlds, One Mind', images: ['/me/photo.webp'] },
+  icons: {
+    icon: [
+      { url: '/icon.png', type: 'image/png' },
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+    ],
+    apple: '/apple-icon.png',
+  },
 };
 
 export const viewport: Viewport = { themeColor: '#0b0b0b', width: 'device-width', initialScale: 1 };

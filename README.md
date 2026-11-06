@@ -1,4 +1,4 @@
-# Sathwik Naag · Design × Tech portfolio
+# Sathwik Naag · Two Worlds, One Mind
 
 Two worlds, one site. Nothing is hard-coded: every project, design, resume, job and line of hero text comes from editable files in `content/`.
 
